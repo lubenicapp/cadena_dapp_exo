@@ -10,4 +10,4 @@ You can ask a new question
 or answer the current question letter by letter
 
 I didnt include much protection for the sake of simplicity :
-(requiring check at validation that the answer is up to date with other clients)
+(requiring check at validation that the answer is up to date with other clients, or that we can only add one letter at a time)
