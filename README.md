@@ -1,9 +1,14 @@
-#### Dapp project from cadena-55e45.firebaseapp.com
+#### Dapp project for cadena-55e45.firebaseapp.com
+
+This is my project for the first exercise in the blockchain course from cadena
+
+project can be seen here
 
 https://dapp-ouija.herokuapp.com/
 
 You need Metamask connected to rinkeby and some gas
 
+its a Oui-ja
 
 You can ask a new question
 
